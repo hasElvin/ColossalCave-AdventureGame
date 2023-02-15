@@ -1,4 +1,4 @@
-package Adventure;
+package ColossalCave;
 
 import java.util.HashMap;
 import java.util.Map;
